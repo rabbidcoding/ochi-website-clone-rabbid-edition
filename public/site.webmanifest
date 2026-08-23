@@ -1,0 +1,21 @@
+{
+	"name": "OCHI — Presentation Design Agency",
+	"short_name": "OCHI",
+	"description": "Eye-opening presentation design for public and private companies, from first pitch to IPO.",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#f1f1f1",
+	"theme_color": "#212121",
+	"icons": [
+		{
+			"src": "/rabbid.gif",
+			"sizes": "192x192",
+			"type": "image/gif"
+		},
+		{
+			"src": "/rabbid2.gif",
+			"sizes": "512x512",
+			"type": "image/gif"
+		}
+	]
+}
