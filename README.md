@@ -9,7 +9,7 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![WebAssembly](https://img.shields.io/badge/WebAssembly-WASM_SIMD-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
   [![Rust SWC](https://img.shields.io/badge/Rust_Compiler-SWC-DEA584?style=for-the-badge&logo=rust&logoColor=white)](https://swc.rs/)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](LICENSE)
   [![Author](https://img.shields.io/badge/Maintained_By-RabbidCoding-ff4081?style=for-the-badge)](https://github.com/rabbidcoding)
 
   <p align="center">
@@ -123,4 +123,4 @@ Designed & Developed for Post-Frontier Production.
 
 * **Project**: OCHI Presentation Agency Edition
 * **Maintained By**: [RabbidCoding](https://github.com/rabbidcoding)
-* **License**: MIT
+* **License**: Apache 2.0
